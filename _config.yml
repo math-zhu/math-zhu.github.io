@@ -1,3 +1,10 @@
+title: "Yi Zhu's Website"
+description: "Welcome to my personal website, powered by Jekyll!"
+author: "Yi Zhu"
+url: "https://mat-zhu.github.io"
+baseurl: "" # empty for root domain
+theme: jekyll-theme-minimal
+
 navigation:
   - title: "Home"
     url: "/"
