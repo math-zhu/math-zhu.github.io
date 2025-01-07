@@ -5,6 +5,12 @@ url: "https://mat-zhu.github.io"
 baseurl: "" # empty for root domain
 theme: jekyll-theme-minimal
 
+# Add MathJax support
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 navigation:
   - title: "Home"
     url: "/"
