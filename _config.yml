@@ -11,6 +11,9 @@ kramdown:
   input: GFM
   hard_wrap: false
 
+# Enable MathJax support
+mathjax: true
+
 navigation:
   - title: "Home"
     url: "/"
