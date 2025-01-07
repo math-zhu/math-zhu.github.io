@@ -1,4 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <title>{{ page.title }} | {{ site.title }}</title>
-  {% include head.html %}
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  
+  <!-- MathJax Script -->
+  <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <!-- Your other head elements -->
 </head>
+<body>
+  <!-- Your body content -->
+  {{ content }}
+</body>
+</html>
