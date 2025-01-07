@@ -1,0 +1,7 @@
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "links"
+    url: "/links"
+  - title: "talks-and-travels"
+    url: "/talks-and-travels"
