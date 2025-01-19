@@ -1,23 +1,14 @@
-title: "Yi Zhu's Website"
-description: "Welcome to my personal website, powered by Jekyll!"
-author: "Yi Zhu"
-url: "https://mat-zhu.github.io"
-baseurl: "" # empty for root domain
-theme: jekyll-theme-minimal
-
-# Add MathJax support
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-
-# Enable MathJax support
-mathjax: true
-
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "links"
-    url: "/links"
-  - title: "talks-and-travels"
-    url: "/talks-and-travels"
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
