@@ -26,7 +26,7 @@
 * Strong Approximation over function fields, with Q. Chen, 
 *Journal of Algebraic Geometry*, 27 (2018) 703–725
 
-* $\mathbb{A}^1$-equivalence of zero cycles on surfaces, 
+* $\Bbb{A}^1$-equivalence of zero cycles on surfaces, 
 *Transactions of the AMS*, 370 (2018), no. 9, 6735–6749  
 
 * $\mathbb{A}^1$-curves on log smooth varieties, with Q. Chen,
