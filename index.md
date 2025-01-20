@@ -21,7 +21,6 @@ title: Yi Zhu's personal page
 * A series lectures for middle schoolers to prepare math compeitions [Topics on middle school math competitions](https://github.com/math-zhu/middle_school_math_competitions)
 
 ### Publication list:  
-* test $2+3=5$
 
 * Fano Hypersurfaces in Positive Characteristic, 
 *Comptes Rendus. Mathématique*, Volume 362 (2024), pp. 107-115
