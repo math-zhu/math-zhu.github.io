@@ -1,5 +1,8 @@
 plugins:
   - jekyll-relative-links
+markdown: kramdown
+kramdown:
+    math_engine: katex
 relative_links:
   enabled: true
   collections: true
