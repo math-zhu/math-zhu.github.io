@@ -25,25 +25,25 @@ title: Yi Zhu's personal page
 * Fano Hypersurfaces in Positive Characteristic, 
 *Comptes Rendus. Mathématique*, Volume 362 (2024), pp. 107-115
 
-* A1-curves on affine complete intersections, with X. Chen, 
+* $\mathbb{A}^1$-curves on affine complete intersections, with X. Chen, 
 *Selecta Mathematica*, 24(4), 3823-3834, (2018)
 
-* A1-equivalence of zero cycles on surfaces II, with Q. Yin, 
+* $\mathbb{A}^1$-equivalence of zero cycles on surfaces II, with Q. Yin, 
 *Annals of K-Theory* 3-3 (2018), 379--393
 
 * Strong Approximation over function fields, with Q. Chen, 
 *Journal of Algebraic Geometry*, 27 (2018) 703–725
 
-* A1-equivalence of zero cycles on surfaces, 
+* $\mathbb{A}^1$-equivalence of zero cycles on surfaces, 
 *Transactions of the AMS*, 370 (2018), no. 9, 6735–6749  
 
-* A1-curves on log smooth varieties, with Q. Chen,
+* $\mathbb{A}^1$-curves on log smooth varieties, with Q. Chen,
 *Journal für die reine und angewandte Mathematik (Crelle's Journal)* 756, 1-35
 
 * [Homogeneous Space Fibrations over Surfaces](papers/6_RSC.pdf),
 *Journal of the Institute of Mathematics of Jussieu* 18 (2), 293-327 
 
-* [A1-curves on log K3 surfaces](papers/5_logK3.pdf), with X. Chen, 
+* [$\mathbb{A}^1$-curves on log K3 surfaces](papers/5_logK3.pdf), with X. Chen, 
 *Advances in Mathematics* 313, (2017), 718-745
 
 * [Log rationally connected surfaces](papers/4_logRC.pdf), 
@@ -52,7 +52,7 @@ title: Yi Zhu's personal page
 * [On the irreducibility of the space of genus zero stable log maps to wonderful compactifications](papers/3_irred-wonder.pdf), with Q. Chen,
  *International Mathematical Research Notices* 2016, no.10, 3029-3050 
 
-* [A1-connected varieties of rank one over non-closed fields](papers/2_a1-nonclose.pdf), with Q. Chen, 
+* [$\mathbb{A}^1$-connected varieties of rank one over non-closed fields](papers/2_a1-nonclose.pdf), with Q. Chen, 
 *Mathematische Annalen* 364, (2016), no.3, 1505-1515 
 
 * [Very free curves on Fano complete intersections](papers/1_very-free.pdf), with Q. Chen, *Algebraic Geometry* 1 (2014), no.5, 558-572 
