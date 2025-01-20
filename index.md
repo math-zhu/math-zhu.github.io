@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.css" integrity="sha384-O3bnpD7k42I6q0zv+sbnw0f1Ovw4f9u4eDPf79XDRuF7I6jHgcsRR6FOYeU6/18c" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.15.6/dist/katex.min.js" integrity="sha384-gi0lYdr5AKhZ7Z9uAFpyB3fANxH8FbN8L1OrfgFS5UeRudLf7pksuOfKSl84M76s" crossorigin="anonymous"></script>
+</head>
+</html>
+
+
 # Yi Zhu
 * Quantitative Analytics and Model Development Group Manager 
 * PNC Bank 
