@@ -3,7 +3,12 @@ layout: default
 title: Yi Zhu's personal page
 ---
 
+<div style="display: flex; justify-content: flex-end;">
+  <img src="others/yz.jpg" width="100" height="100"  style="float: right; margin-left: 15px;">
+</div>
+
 # Yi Zhu
+
 * Quantitative Analytics and Model Development Group Manager 
 * PNC Bank 
 
