@@ -27,22 +27,22 @@ title: Yi Zhu's personal page
 
 ### Publication list:  
 
-* Fano Hypersurfaces in Positive Characteristic, 
+* [Fano Hypersurfaces in Positive Characteristic](papers/Fano_hypersurface.pdf), 
 *Comptes Rendus. Mathématique*, Volume 362 (2024), pp. 107-115
 
-* $\mathbb{A}^1$-curves on affine complete intersections, with X. Chen, 
+* [$\mathbb{A}^1$-curves on affine complete intersections](papers/CZ_logVoisin.pdf), with X. Chen, 
 *Selecta Mathematica*, 24(4), 3823-3834, (2018)
 
-* $\mathbb{A}^1$-equivalence of zero cycles on surfaces II, with Q. Yin, 
+* [$\mathbb{A}^1$-equivalence of zero cycles on surfaces II](papers/YZ_Bloch.pdf), with Q. Yin, 
 *Annals of K-Theory* 3-3 (2018), 379--393
 
-* Strong Approximation over function fields, with Q. Chen, 
+* [Strong Approximation over function fields](papers/CZ_SA.pdf), with Q. Chen, 
 *Journal of Algebraic Geometry*, 27 (2018) 703–725
 
-* $\mathbb{A}^1$-equivalence of zero cycles on surfaces, 
+* [$\mathbb{A}^1$-equivalence of zero cycles on surfaces](papers/log_mumford.pdf), 
 *Transactions of the AMS*, 370 (2018), no. 9, 6735–6749  
 
-* $\mathbb{A}^1$-curves on log smooth varieties, with Q. Chen,
+* [$\mathbb{A}^1$-curves on log smooth varieties](papers/CZ_A1_pair.pdf), with Q. Chen,
 *Journal für die reine und angewandte Mathematik (Crelle's Journal)* 756, 1-35
 
 * [Homogeneous Space Fibrations over Surfaces](papers/6_RSC.pdf),
