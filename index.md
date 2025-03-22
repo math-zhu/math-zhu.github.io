@@ -46,7 +46,7 @@ title: Yi Zhu's personal page
 *Journal für die reine und angewandte Mathematik (Crelle's Journal)* 756, 1-35
 
 * [Homogeneous Space Fibrations over Surfaces](papers/6_RSC.pdf),
-*Journal of the Institute of Mathematics of Jussieu* 18 (2), 293-327 
+*Journal of the Institute of Mathematics of Jussieu* 18 (2), 293-327. The updated [version](papers/RSC_updated.pdf) improving Cor. 1.5. 
 
 * [$\mathbb{A}^1$-curves on log K3 surfaces](papers/5_logK3.pdf), with X. Chen, 
 *Advances in Mathematics* 313, (2017), 718-745
