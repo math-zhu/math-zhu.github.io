@@ -21,7 +21,7 @@ title: Yi Zhu's personal page
 
 ### What is new:
 
-* Fibration method with multiple fibers and strong approximation, with D. Wei and J. Xu, [arXiv:2412.01144](arXiv:2412.01144)
+* Fibration method with multiple fibers and strong approximation, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
 * A series lectures for middle schoolers to prepare math compeitions [Topics on middle school math competitions](https://github.com/math-zhu/middle_school_math_competitions)
 
