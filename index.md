@@ -23,7 +23,7 @@ title: Yi Zhu's personal page
 
 * Fibration method with multiple fibers and strong approximation, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
-### Teaching for Middle Schooler
+### Teaching for Middle Students
 
 * A series lectures for middle schoolers to prepare math compeitions **Topics on middle school math competitions**
 
