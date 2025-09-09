@@ -19,11 +19,11 @@ title: Yi Zhu's personal page
 * List from [arXiv](https://arxiv.org/a/zhu_y_3.html) 
 * Email: math.zhu@gmail.com
 
-### Preprint:
+### Preprints:
 
 * Fibration method with multiple fibers and strong approximation, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
-### Teaching for Middle Students
+### Teaching for Middle Students:
 
 * A series lectures for middle schoolers to prepare math compeitions **Topics on middle school math competitions**
 
