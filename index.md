@@ -27,7 +27,7 @@ title: Yi Zhu's personal page
 
 * A series lectures for middle schoolers to prepare math compeitions **Topics on middle school math competitions**
 
-  * [Spring 26](https://github.com/math-zhu/geometry)
+  * [Spring 26](https://github.com/math-zhu/S26_Geometry)
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
   * [Spring 25](https://github.com/math-zhu/middle_school_math_competitions)
 
