@@ -21,14 +21,17 @@ title: Yi Zhu's personal page
 
 ### Preprints:
 
-* Fibration method with multiple fibers and strong approximation, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
+* Strong approximation for the intersection of two quadrics, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
 ### Teaching for Middle Students:
 
 * A series lectures for middle schoolers to prepare math compeitions **Topics on middle school math competitions**
 
+  * [Spring 26](https://github.com/math-zhu/geometry)
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
   * [Spring 25](https://github.com/math-zhu/middle_school_math_competitions)
+
+
 
 ### Publication list
 
