@@ -13,7 +13,7 @@ title: Yi Zhu's personal page
 * PNC Bank 
 
 ### About me
- The field of my research is algebraic geometry. I study rational curves and algebraic cycles on algebraic varieties and their arithmetic applications.
+ My research area is algebraic geometry. I study rational curves and algebraic cycles on algebraic varieties, along with their arithmetic applications.
 
 * [Google Scholar](https://scholar.google.com/citations?user=fzVQUl4AAAAJ&hl=en) 
 * List from [arXiv](https://arxiv.org/a/zhu_y_3.html) 
@@ -23,9 +23,9 @@ title: Yi Zhu's personal page
 
 * Strong approximation for the intersection of two quadrics, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
-### Teaching for Middle Students:
+### Teaching for Middle School Students:
 
-* A series lectures for middle schoolers to prepare math compeitions **Topics on middle school math competitions**
+* **Topics on middle school math competitions** — a lecture series preparing middle schoolers for math competitions.
 
   * [Spring 26](https://github.com/math-zhu/S26_Geometry)
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
