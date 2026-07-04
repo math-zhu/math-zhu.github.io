@@ -35,17 +35,17 @@ title: Yi Zhu's personal page
 
 **University of Waterloo**
 
-* Fall 2016 — Math 127, Calculus for Sciences
-* Fall 2015 — Math 114, Linear Algebra for Science
+* Fall 2016 — [Math 127, Calculus for Sciences](https://sites.google.com/site/yizhuhomepage/teaching/2016-mat127)
+* Fall 2015 — [Math 114, Linear Algebra for Science](https://sites.google.com/site/yizhuhomepage/teaching/math114-f15)
 
 **University of Utah**
 
-* Spring 2015 — Math 1030, Introduction to Quantitative Reasoning
-* Fall 2014 — Math 1100, Quantitative Analysis
-* Spring 2014 — Math 1210, Calculus II
-* Fall 2013 — Math 2210, Calculus III
-* Fall 2013 — Math 5310, Introduction to Modern Algebra I
-* Spring 2013 — Math 1210, Calculus I
+* Spring 2015 — [Math 1030, Introduction to Quantitative Reasoning](https://sites.google.com/site/yizhuhomepage/teaching/15-MATH-1030)
+* Fall 2014 — [Math 1100, Quantitative Analysis](https://sites.google.com/site/yizhuhomepage/teaching/fall14-math1100)
+* Spring 2014 — [Math 1210, Calculus II](https://sites.google.com/site/yizhuhomepage/teaching/spring14-math1220)
+* Fall 2013 — [Math 2210, Calculus III](https://sites.google.com/site/yizhuhomepage/teaching/Fall2013-MAT2210)
+* Fall 2013 — [Math 5310, Introduction to Modern Algebra I](https://sites.google.com/site/yizhuhomepage/teaching/fall2013-math5310)
+* Spring 2013 — [Math 1210, Calculus I](https://sites.google.com/site/yizhuhomepage/teaching/spring13-mat1210)
 
 
 
