@@ -31,6 +31,22 @@ title: Yi Zhu's personal page
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
   * [Spring 25](https://github.com/math-zhu/middle_school_math_competitions)
 
+### Past Teaching:
+
+**University of Waterloo**
+
+* Fall 2016 — Math 127, Calculus for Sciences
+* Fall 2015 — Math 114, Linear Algebra for Science
+
+**University of Utah**
+
+* Spring 2015 — Math 1030, Introduction to Quantitative Reasoning
+* Fall 2014 — Math 1100, Quantitative Analysis
+* Spring 2014 — Math 1210, Calculus II
+* Fall 2013 — Math 2210, Calculus III
+* Fall 2013 — Math 5310, Introduction to Modern Algebra I
+* Spring 2013 — Math 1210, Calculus I
+
 
 
 ### Publication list
