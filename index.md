@@ -31,24 +31,6 @@ title: Yi Zhu's personal page
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
   * [Spring 25](https://github.com/math-zhu/middle_school_math_competitions)
 
-### Past Teaching:
-
-**University of Waterloo**
-
-* Fall 2016 — [Math 127, Calculus for Sciences](https://sites.google.com/site/yizhuhomepage/teaching/2016-mat127)
-* Fall 2015 — [Math 114, Linear Algebra for Science](https://sites.google.com/site/yizhuhomepage/teaching/math114-f15)
-
-**University of Utah**
-
-* Spring 2015 — [Math 1030, Introduction to Quantitative Reasoning](https://sites.google.com/site/yizhuhomepage/teaching/15-MATH-1030)
-* Fall 2014 — [Math 1100, Quantitative Analysis](https://sites.google.com/site/yizhuhomepage/teaching/fall14-math1100)
-* Spring 2014 — [Math 1210, Calculus II](https://sites.google.com/site/yizhuhomepage/teaching/spring14-math1220)
-* Fall 2013 — [Math 2210, Calculus III](https://sites.google.com/site/yizhuhomepage/teaching/Fall2013-MAT2210)
-* Fall 2013 — [Math 5310, Introduction to Modern Algebra I](https://sites.google.com/site/yizhuhomepage/teaching/fall2013-math5310)
-* Spring 2013 — [Math 1210, Calculus I](https://sites.google.com/site/yizhuhomepage/teaching/spring13-mat1210)
-
-
-
 ### Publication list
 
 - **Fano Hypersurfaces in Positive Characteristic**  
@@ -86,6 +68,23 @@ title: Yi Zhu's personal page
 
 - **Very free curves on Fano complete intersections** (with Q. Chen)  
   [PDF](papers/1_very-free.pdf), *Algebraic Geometry* 1 (2014), no.5, 558-572
+
+
+### Past Teaching:
+
+**University of Waterloo**
+
+* Fall 2016 — [Math 127, Calculus for Sciences](teaching/2016-math127.md)
+* Fall 2015 — [Math 114, Linear Algebra for Science](teaching/2015-math114.md)
+
+**University of Utah**
+
+* Spring 2015 — [Math 1030, Introduction to Quantitative Reasoning](teaching/2015-math1030.md)
+* Fall 2014 — [Math 1100, Quantitative Analysis](teaching/2014-math1100.md)
+* Spring 2014 — [Math 1210, Calculus II](teaching/2014-math1220.md)
+* Fall 2013 — [Math 2210, Calculus III](teaching/2013-math2210.md)
+* Fall 2013 — [Math 5310, Introduction to Modern Algebra I](teaching/2013-math5310.md)
+* Spring 2013 — [Math 1210, Calculus I](teaching/2013-math1210.md)
 
 
 
