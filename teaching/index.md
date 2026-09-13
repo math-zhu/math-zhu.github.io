@@ -12,6 +12,7 @@ title: Teaching — Yi Zhu
 A lecture series preparing middle schoolers for math competitions.
 
 * [Spring 2026 — Geometry](https://github.com/math-zhu/S26_Geometry)
+* [Fall 2026 — Precalculus](https://github.com/math-zhu/F26_precalculus)
 * [Fall 2025](https://github.com/math-zhu/F25_middle_school_math_competitions)
 * [Spring 2025](https://github.com/math-zhu/middle_school_math_competitions)
 

@@ -21,12 +21,14 @@ title: Yi Zhu's personal page
 
 ### Preprints:
 
+* Arithmetic purity of strong approximation for toric varieties with constant global sections, with D. Wei and F. Xu, [arXiv:2608.28204](https://arxiv.org/abs/2608.28204)
 * Strong approximation for the intersection of two quadrics, with D. Wei and J. Xu, [arXiv:2412.01144](https://arxiv.org/abs/2412.01144)
 
 ### Teaching for Middle School Students:
 
 * **Topics on middle school math competitions** — a lecture series preparing middle schoolers for math competitions.
 
+  * [Fall 26 — Precalculus](https://github.com/math-zhu/F26_precalculus)
   * [Spring 26](https://github.com/math-zhu/S26_Geometry)
   * [Fall 25](https://github.com/math-zhu/F25_middle_school_math_competitions)
   * [Spring 25](https://github.com/math-zhu/middle_school_math_competitions)
